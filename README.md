@@ -1,8 +1,8 @@
 # Formazione rapida
 
-Userscript per Tampermonkey che aggiunge un controllo della velocità ai corsi su Syllabus.
+Userscript per Tampermonkey che aggiunge un controllo della velocità ai corsi sulla piattaforma.
 
-**[Installa o aggiorna lo script](https://raw.githubusercontent.com/massimilianopal/formazione-rapida/main/syllabus-velocita.user.js)**
+
 
 ## Installazione su ogni postazione
 
